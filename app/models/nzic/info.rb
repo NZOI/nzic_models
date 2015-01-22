@@ -1,2 +1,2 @@
-class NZIC::Info < ActiveRecord::Base
+class NZIC::Info < NZIC::Base
 end

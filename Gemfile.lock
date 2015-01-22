@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nzic (0.0.1)
+    nzic_models (0.0.1)
       rails (~> 4.2.0)
 
 GEM
@@ -108,5 +108,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nzic!
+  nzic_models!
   sqlite3

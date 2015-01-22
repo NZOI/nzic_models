@@ -1,2 +1,2 @@
-NZIC::Engine.routes.draw do
+NZICModels::Engine.routes.draw do
 end

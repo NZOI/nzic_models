@@ -1,8 +1,10 @@
 PATH
   remote: .
   specs:
-    nzic_models (0.0.1)
-      rails (~> 4.2.0)
+    nzic_models (0.0.2)
+      loofah
+      rails (~> 4.0)
+      redcarpet
 
 GEM
   remote: https://rubygems.org/
@@ -88,6 +90,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rake (10.4.2)
+    redcarpet (3.0.0)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
